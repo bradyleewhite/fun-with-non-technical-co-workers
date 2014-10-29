@@ -5,7 +5,8 @@ Because its fun to mess with co-workers
 
 If the mouse is left alone for 10 seconds the website will flip upside down.
 
-Change the interval variable to increase or decrease the time to wait. (remember the number is in milliseconds so 10000ms = 10s)
+Change the interval variable to increase or decrease the time to wait.
+(remember the number is in milliseconds so 10000ms = 10s)
 
 
 
